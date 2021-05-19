@@ -1,7 +1,7 @@
 ---
 title: "Erin Franke"
 description: |
-  Hi, I'm Erin Franke. I am currently a student at Macalester College double majoring in Applied Mathemetics & Statistics and Economics with a passion for data analysis in sports and social good among other fields.
+  Hi, I'm Erin Franke. I am currently a student at Macalester College double majoring in Applied Mathematics & Statistics and Economics with a passion for data analysis in sports and social good among other fields.
 site: distill::distill_website
 ---
 
