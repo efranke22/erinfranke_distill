@@ -1,4 +1,4 @@
 ---
-title: "blog"
+title: "My larger stats/data science projects"
 listings: posts
 ---

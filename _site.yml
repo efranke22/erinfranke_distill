@@ -7,7 +7,7 @@ navbar:
   right:
     - text: "About"
       href: index.html
-    - text: "BLOG!"
+    - text: "Bigger Projects"
       href: blog.html
     - icon: fa fa-github
       href: https://github.com/efranke22
