@@ -26,9 +26,9 @@ One of my main takeaways from this internship was the importance of good data. A
 
 When COVID-19 hit in March 2020 and demand at Common Pantry spiked to about 2.11x their normal levels, Common Pantry could understandably no longer collect in depth information on clients such as their names, addresses, family size, and more. However, one piece of information they were able to collect was client zip code. I used this to create a basic density plot of the distribution of clients in Chicago. The Common Pantry service area, outlined in red, was removed once COVID-19 put many out of work. 
 
-![](zipcode.JPG){width=55%}
+![](cpmap.png){width=55%}
 
-While the map above is basic and by hand (it is my hope that soon I will learn or teach myself how to make maps like this on R), it shows an important point, which is that a large portion of Common Pantry's clients during COVID are coming from out of their service area and perhaps this service area needs to be enlarged for the long term (if Common Pantry can get adequate funding to do so). Four months after the conclusion of this project, one super exciting thing to note is that Common Pantry has recently announced the purchase of their own new and larger building only three blocks from the current pantry that will allow them to serve a greater amount of clients! 
+The map above shows an important point, which is that a large portion of Common Pantry's clients during COVID are coming from out of their service area and perhaps this service area needs to be enlarged for the long term (if Common Pantry can get adequate funding to do so). Four months after the conclusion of this project, one super exciting thing to note is that Common Pantry has recently announced the purchase of their own new and larger building only three blocks from the current pantry that will allow them to serve a greater amount of clients! 
 
 ![Common Pantry's new location](newloc.JPG){width=55%}
 
