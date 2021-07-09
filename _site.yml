@@ -7,8 +7,10 @@ navbar:
   right:
     - text: "About"
       href: index.html
-    - text: "Bigger Projects"
+    - text: "Projects"
       href: blog.html
+    - text: "Data Viz"
+      href: dataviz.html
     - icon: fa fa-github
       href: https://github.com/efranke22
     - icon: fa fa-linkedin

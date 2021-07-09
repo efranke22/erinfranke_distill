@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-![](Franke_Erin.JPG){width=40%}
+![](images/Franke_Erin.JPG){width=40%}
 
 ## Education
 
@@ -41,8 +41,8 @@ BA in Applied Mathematics & Statistics and Economics, *2023* \
 
 In addition to my academics, I also enjoy playing softball at Macalester, volunteering at my local food pantry in Chicago, running and hiking, and watching baseball (especially the Cubs). 
 
-![](sb.JPG){width=40%} ![](cp.JPG){width=40%}
-![](hikingpic3.JPG){width=40%} ![](wrigley.JPG){width=40%}
+![](images/sb.JPG){width=40%} ![](images/cp.JPG){width=40%}
+![](images/hikingpic3.JPG){width=40%} ![](images/wrigley.JPG){width=40%}
 
 ## Contact 
 Please reach out to me by email at efranke@macalester.edu!!

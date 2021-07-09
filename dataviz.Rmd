@@ -1,0 +1,26 @@
+---
+title: "Collection of Data Visualizations"
+site: distill::distill_website
+output:
+  distill::distill_article:
+    toc: true
+---
+    
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Tidy Tuesday 
+![](images/tt28.JPG){width=32.5%} ![](images/tt27.JPG){width=32.5%} ![](images/tt26.jpg){width=32.5%}
+![](images/tt25.JPG){width=32.5%} ![](images/tt252.JPG){width=32.5%} ![](images/tt24.jpg){width=32.5%}
+![](images/tt23.JPG){width=64%} ![](images/tt22.JPG){width=35%}
+
+```{r out.width='32%', echo = FALSE}
+knitr::include_graphics("images/city_walking.gif")
+```
+
+## Sports 
+
+![](images/wnba1.png){width=63%} ![](images/woba.png){width=36%}
+![](images/laoutcomes.png){width=36%} ![](images/wnba2.png){width=63%}
+![](images/wnba3.png){width=63%}
