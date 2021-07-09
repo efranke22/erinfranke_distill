@@ -10,7 +10,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Here are a collection of some data visualizations I have created starting in May 2021. Some are my favorite visualizations from the EDA portion of larger projects, but most are either for the #TidyTuesday project or my own curiosity. Feel free to zoom in on specific graphs for more detail. 
+Here are a collection of some data visualizations I have created starting in May 2021. Some are my favorite visualizations from the EDA portion of larger projects (during which I described where exactly the data were coming from and why), but most are either for the #TidyTuesday project or my own curiosity. Feel free to zoom in on specific graphs for more detail. 
 
 ## Tidy Tuesday 
 ![](images/tt28.JPG){width=32.5%} ![](images/tt27.JPG){width=32.5%} ![](images/tt26.jpg){width=32.5%}

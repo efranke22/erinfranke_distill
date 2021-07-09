@@ -11,8 +11,8 @@
       "path": "dataviz.html",
       "title": "Collection of Data Visualizations",
       "author": [],
-      "contents": "\n\nContents\nTidy Tuesday\nSports\n\nHere are a collection of some data visualizations I have created starting in May 2021. Some are my favorite visualizations from the EDA portion of larger projects, but most are either for the #TidyTuesday project or my own curiosity. Feel free to zoom in on specific graphs for more detail.\nTidy Tuesday\n\n\n\n\nSports\n\n\n\n\n",
-      "last_modified": "2021-07-09T18:28:42-05:00"
+      "contents": "\n\nContents\nTidy Tuesday\nSports\n\nHere are a collection of some data visualizations I have created starting in May 2021. Some are my favorite visualizations from the EDA portion of larger projects (during which I described where exactly the data were coming from and why), but most are either for the #TidyTuesday project or my own curiosity. Feel free to zoom in on specific graphs for more detail.\nTidy Tuesday\n\n\n\n\nSports\n\n\n\n\n",
+      "last_modified": "2021-07-09T18:32:04-05:00"
     },
     {
       "path": "index.html",
