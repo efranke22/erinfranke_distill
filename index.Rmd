@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-![](images/Franke_Erin.JPG){width=40%}
+![](images/gradpic.jpg){width=28%}
 
 ## Education
 
