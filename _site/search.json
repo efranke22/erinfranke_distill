@@ -11,16 +11,16 @@
       "path": "dataviz.html",
       "title": "Collection of Data Visualizations",
       "author": [],
-      "contents": "\n\nContents\nTidy Tuesday\nSports\n\nHere are a collection of some data visualizations I have created starting in May 2021. Some are my favorite visualizations from the EDA portion of larger projects (during which I described where exactly the data were coming from and why), but most are either for the #TidyTuesday project or my own curiosity. Feel free to zoom in on specific graphs for more detail.\nTidy Tuesday\n\n\n\n\nSports\n\n\n\n\n",
-      "last_modified": "2021-07-09T18:32:04-05:00"
+      "contents": "\n\nContents\nTidy Tuesday\nSports\n\nHere are a collection of some data visualizations I have created starting in May 2021. Feel free to zoom in on specific graphs for more detail.\nTidy Tuesday\n\n\n\n\nSports\n\n\n\n\n",
+      "last_modified": "2021-08-09T18:13:06-05:00"
     },
     {
       "path": "index.html",
       "title": "Erin Franke",
-      "description": "Hi, I'm Erin Franke. I am currently a student at Macalester College double majoring in Applied Mathematics & Statistics and Economics with a passion for data analysis in sports and social good among other fields. This summer (2021) I am excited to be working with Carnegie Mellon for their summer undergraduate research program in statistics on the topic of sports analytics. \n",
+      "description": "Hi, I'm Erin Franke. I am currently a student at Macalester College double majoring in Applied Mathematics & Statistics and Economics with a passion for data analysis in sports and social good among other fields. \n\nThis summer I was a research assistant at Carnegie Mellon University's Department of Statistics and Data Science where I worked Adam Brodie (Houston Astros), Sarah Sult (Washington University in St.Louis), and Brooke Coneeny (Swarthmore College) on our project [\"Maximizing wOBA with Launch Angle and Exit Velocity\"](https://sarahsult.github.io/cmsacamp_baseball_project/Presentations/Final%20Presentations/Full_Presentation.html#1). We are currently in the process of trying to weigh the impact of increasing attack angle on swing-and-miss rate. \n",
       "author": [],
-      "contents": "\n\nEducation\nBA in Applied Mathematics & Statistics and Economics, 2023Macalester College: Saint Paul, MN\nNorthside College Preparatory High School of Chicago, IL 2015-2019\nWork and Internship Experience\nCarnegie Mellon Summer Undergraduate Research Experience in StatisticsTheme of “Data Science in Sports Analytics”June 1 - July 31, 2021\nIntroduction to Statistics (STAT 155) PreceptorMacalester CollegeJanuary 2021 - present\nData Analysis InternshipCommon Pantry of Chicago, ILJanuary 2021\nIntroduction to Computer Science (COMP 123) PreceptorMacalester CollegeSep 2020 - Dec 2020\nA little more about me\nIn addition to my academics, I also enjoy playing softball at Macalester, volunteering at my local food pantry in Chicago, running and hiking, and watching baseball (especially the Cubs).\n\nContact\nPlease reach out to me by email at efranke@macalester.edu!!\n\n\n\n",
-      "last_modified": "2021-07-22T21:04:01-05:00"
+      "contents": "\n\nEducation\nResume\nBA in Applied Mathematics & Statistics and Economics, 2023Macalester College: Saint Paul, MN\nNorthside College Preparatory High School of Chicago, IL 2015-2019\nWork and Internship Experience\nCarnegie Mellon Summer Undergraduate Research Experience in StatisticsTheme of “Data Science in Sports Analytics”June 1 - July 31, 2021\nIntroduction to Statistics (STAT 155) PreceptorMacalester CollegeJanuary 2021 - present\nData Analysis InternshipCommon Pantry of Chicago, ILJanuary 2021\nIntroduction to Computer Science (COMP 123) PreceptorMacalester CollegeSep 2020 - Dec 2020\nA little more about me\nIn addition to my academics, I also enjoy playing softball at Macalester, volunteering at my local food pantry in Chicago, running and hiking, and watching baseball (especially the Cubs).\n\nContact\nPlease reach out to me by email at efranke@macalester.edu!!\n\n\n\n",
+      "last_modified": "2021-08-09T18:15:10-05:00"
     }
   ],
   "collections": ["posts/posts.json"]

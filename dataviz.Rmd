@@ -10,15 +10,15 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Here are a collection of some data visualizations I have created starting in May 2021. Some are my favorite visualizations from the EDA portion of larger projects (during which I described where exactly the data were coming from and why), but most are either for the #TidyTuesday project or my own curiosity. Feel free to zoom in on specific graphs for more detail. 
+Here are a collection of some data visualizations I have created starting in May 2021. Feel free to zoom in on specific graphs for more detail. 
 
 ## Tidy Tuesday 
-![](images/tt28.JPG){width=32.5%} ![](images/tt27.JPG){width=32.5%} ![](images/tt26.jpg){width=32.5%}
+![](images/tt28.JPG){width=32.5%} ![](images/ttoly.png){width=32.5%} ![](images/tt26.jpg){width=32.5%}
 ![](images/tt25.JPG){width=32.5%} ![](images/tt252.JPG){width=32.5%} ![](images/tt24.jpg){width=32.5%}
-![](images/tt23.JPG){width=64%} ![](images/tt22.JPG){width=35%}
+![](images/tt22.JPG){width=35%} ![](images/ttscob.png){width=35%}
 
-```{r out.width='32%', echo = FALSE}
-knitr::include_graphics("images/city_walking.gif")
+```{r, echo=FALSE,out.width="32%", out.height="20%",fig.show='hold'}
+knitr::include_graphics(c("images/city_walking.gif","images/drought_sev_map.gif"))
 ```
 
 ## Sports 
