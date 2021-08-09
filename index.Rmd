@@ -16,8 +16,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Education
 
-[Resume](Erin Franke Resume 2021-3.pdf)
-
 BA in Applied Mathematics & Statistics and Economics, *2023* \
 [Macalester College](https://www.macalester.edu): Saint Paul, MN
 
