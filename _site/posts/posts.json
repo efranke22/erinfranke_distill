@@ -29,9 +29,9 @@
     "date": "2021-05-18",
     "categories": [],
     "contents": "\nIn this project we conducted a survival analysis of the time from draft date to debut date for major league baseball players. Our analysis specifically focuses on the variables of fielding position and whether a player was drafted in high school or college, and how these differences change the length of a player’s time between being drafted and making their MLB debut. For the complete analysis, please use the following link to visit our website: https://coreyjpieper.github.io/survival-capstone/index.html\n\n\n\n",
-    "preview": "posts/2021-05-18-buildingdistill/SurvivalAnalysisBlogImage.JPG",
-    "last_modified": "2021-05-18T14:38:02-05:00",
-    "input_file": {}
+    "preview": "posts/2021-05-18-buildingdistill/survival_preview.png",
+    "last_modified": "2021-08-09T20:33:33-05:00",
+    "input_file": "buildingdistill.knit.md"
   },
   {
     "path": "posts/2021-05-18-svdpost/",
