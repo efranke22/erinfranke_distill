@@ -21,6 +21,6 @@ In summer 2021 I was lucky enough to be part of a 15 person research cohort with
 
 Some of my main takeaways from this project were how deeply you have to think as a statistician about underlying assumptions. So many times we thought were proud of a model we had developed and ready to apply it, and then realized how it doesn't take into account something crucial to the game of baseball (like how if a batter changes their swing they will be thrown different pitches). This was also my first time conducting formal team research and I learned how lucky I was to be able to work with people with different strengths than my own. Sarah and Brooke are both computer science majors and were able to use their skills to debug some of our more complicated functions while I focused on data visualization and modeling. 
 
-Please check out our [project repository](https://github.com/sarahsult/cmsacamp_baseball_project) and [most recent presentation](https://sarahsult.github.io/cmsacamp_baseball_project/Presentations/CMSAConference%20Presentation/CMSAConference_presentation.html#1) to learn more about the complex relationship between launch angle/attack angle, exit velocity, and wOBA! 
+Please check out our [**project repository**](https://github.com/sarahsult/cmsacamp_baseball_project) and [**most recent presentation**](https://sarahsult.github.io/cmsacamp_baseball_project/Presentations/CMSAConference%20Presentation/CMSAConference_presentation.html#1) to learn more about the complex relationship between launch angle/attack angle, exit velocity, and wOBA! 
 
 
