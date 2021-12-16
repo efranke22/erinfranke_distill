@@ -16,7 +16,7 @@ Here are a collection of some data visualizations I have created starting in May
 ![](images/tt28.JPG){width=32.5%} ![](images/ttoly.png){width=32.5%} ![](images/tt26.jpg){width=32.5%}
 ![](images/tt25.JPG){width=32.5%} ![](images/tt252.JPG){width=32.5%} ![](images/tt24.jpg){width=32.5%}
 ![](images/tt22.JPG){width=32.5%} ![](images/ttscob.png){width=32.5%} ![](images/olympics.png){width=32.5%}
-![](images/transportation.png){width=32.5%}
+![](images/transportation.png){width=32.5%}![](images/pumpkins.jpg){width=32.5%}![](images/running.jpg){width=32.5%}
 
 ```{r, echo=FALSE,out.width="32%", out.height="20%",fig.show='hold'}
 knitr::include_graphics(c("images/city_walking.gif","images/drought_sev_map.gif", "images/lemur_age2.gif"))
