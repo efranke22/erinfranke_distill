@@ -1,7 +1,7 @@
 ---
 title: "COVID-19 and Residential Property Crime in Chicago, IL"
 description: |
-  My econometics project seeking to understand the impact of the COVID-19 pandemic on residential property crime in Chicago's 77 community areas.  
+  My econometrics project seeking to understand the impact of the COVID-19 pandemic on residential property crime in Chicago's 77 community areas.  
 author:
   - name: Erin Franke
     url: {}
