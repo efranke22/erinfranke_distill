@@ -14,7 +14,7 @@
     "contents": "\n\nIn Spring 2022 I got to take Correlated Data (STAT 452) and learned about how to work with time series, longitudinal, and spatially correlated data. I enjoyed combining my passion of mapping with modeling techniques that account for spatial correlation in order to learn more about the critical issue of childhood lead exposure in the Twin Cities, which can cause damage to a child’s brain and nervous system, slowed growth and development, and even comas or death with severe exposure. To learn more about what might cause elevated blood lead levels in children and where this issue is most apparent, check out our writeup on github.\n\n\n\n",
     "preview": "posts/2022-05-10-twincitieslead/lead.png",
     "last_modified": "2022-05-10T17:12:13-05:00",
-    "input_file": "twincitieslead.knit.md"
+    "input_file": {}
   },
   {
     "path": "posts/2021-12-15-econometrics/",
@@ -65,7 +65,7 @@
     "contents": "\n\nIn Fall 2021 I had the opportunity to take Bayesian Statistics (STAT 454) and complete a capstone project on a topic of choice. Hearing so much about the use of Bayesian techniques in sports, I decided to learn more about career trajectory for pitchers in the MLB, with a focus especially on Tommy John surgery. Please check out this website to learn more and feel free to reach out to me with questions and/or suggestions!\n\n\n\n",
     "preview": "posts/2021-12-15-tommy-john-surgery/slg.png",
     "last_modified": "2022-05-10T16:47:20-05:00",
-    "input_file": "tommyjohnpost.knit.md"
+    "input_file": {}
   },
   {
     "path": "posts/2021-05-19-commonpantry/",
