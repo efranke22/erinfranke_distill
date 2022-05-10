@@ -1,0 +1,24 @@
+---
+title: "A Spatial Analysis of Elevated Blood Lead Levels in the Twin Cities Metropolitan Region"
+description: |
+  Research using spatial techniques including SAR models, the SF package, and Matern Random Effects Modeling to study where children in the Twin Cities are testing with elevated blood lead levels.
+author:
+  - name: Erin Franke
+    url: {}
+date: 12-15-2021
+preview: lead.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](eblls.png){width='70%'}
+
+In Spring 2022 I got to take Correlated Data (STAT 452) and learned about how to work with time series, longitudinal, and spatially correlated data. I enjoyed combining my passion of mapping with modeling techniques that account for spatial correlation in order to learn more about the critical issue of childhood lead exposure in the Twin Cities, which can cause damage to a child's brain and nervous system, slowed growth and development, and even comas or death with severe exposure. To learn more about what might cause elevated blood lead levels in children and where this issue is most apparent, check out [our writeup](https://github.com/efranke22/nick-erin-capstone) on github.
+
+
