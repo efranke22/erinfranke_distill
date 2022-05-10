@@ -1,7 +1,7 @@
 ---
 title: "Erin Franke"
 description: |
-  Hi, I'm Erin Franke. I just completed my junior year at Macalester College where I am a Statistics major and Economics minor with a passion for data analysis in sports and social good among other fields. This summer (2022) I am excited to be joining the Minnesota Twins as a Baseball Research Fellow. 
+  Hi, I'm Erin Franke. I just completed my junior year at Macalester College where I am a Statistics major with Economics and Computer Science minors with a passion for data analysis in sports and social good among other fields. This summer (2022) I am excited to be joining the Minnesota Twins as a Baseball Research Fellow. 
   
   In summer 2021 I was a research assistant at Carnegie Mellon University's Department of Statistics and Data Science where two other undergraduate students and I completed the project ["Maximizing wOBA with Launch Angle and Exit Velocity"](https://github.com/sarahsult/cmsacamp_baseball_project) advised by Adam Brodie (Houston Astros). A few other analytics projects I've recently worked on have involved [Bayesian techiques related to Tommy John surgery](https://tjpitchertrajectory.netlify.app/index.html) and its impact on career trajectory for MLB pitchers, as well as [a spatial analysis on blood lead levels](https://github.com/efranke22/nick-erin-capstone) in the Twin Cities.
   
