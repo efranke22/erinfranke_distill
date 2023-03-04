@@ -17,10 +17,10 @@
     {
       "path": "index.html",
       "title": "Erin Franke",
-      "description": "Hi, I'm Erin Franke. I currently attend Macalester College and am majoring in Statistics with Economics and Computer Science minors. I will be graduating in May 2023 and am interested in pursuing a career as a data scientist. This summer (2022) I joined the Minnesota Twins as a Baseball Research Fellow where I used R and SQL to apply statistical techinques in efforts to analyze players and baseball strategy. \n\nCurrently I am working on an independent honors project related to the intersection of gentrification and crime [(github here)](https://github.com/efranke22/honorsGentrification). Another recent project I have worked on is a spatial analysis of [blood lead levels](https://github.com/efranke22/nick-erin-capstone) of children in the Twin Cities.\n",
+      "description": "Hi, I'm Erin Franke. I currently attend Macalester College and am majoring in Statistics with Computer Science and Economics minors. Currently I am working on an independent honors project related to the intersection of gentrification and crime [(github here)](https://github.com/efranke22/honorsGentrification). I will be graduating in May 2023 and am very excited to be joining Mayo Clinic as a Statistical Programmer. \n",
       "author": [],
-      "contents": "\nEducation\nBA in Statistics, 2023Macalester College: Saint Paul, MN\nNorthside College Preparatory High School of Chicago, IL 2015-2019\nFor more information on my education, work, internship, and research experience, please check out my resume.\nA little more about me\nIn addition to my academics, I also enjoy running distance for Macalester Track & Field and Cross Country, volunteering at my local food pantry in Chicago, hiking, and watching baseball (especially the Twins and Cubs)!\n\nContact\nIt is easiest to contact me by email at efranke@macalester.edu!\n\n\n\n",
-      "last_modified": "2022-11-14T14:29:50-06:00"
+      "contents": "\nEducation\nBA in Statistics, 2023Macalester College: Saint Paul, MN\nNorthside College Preparatory High School of Chicago, IL 2015-2019\nFor more information on my education, work, internship, and research experience, please check out my resume.\nA little more about me\nIn addition to my academics, I also enjoy running distance for Macalester Track & Field and Cross Country, volunteering at my local food pantry in Chicago, hiking, and watching baseball (especially the Twins and Cubs)!\n\nContact\nPlease reach out to me by email erinfranke23@gmail.com\n\n\n\n",
+      "last_modified": "2023-03-04T14:29:08-06:00"
     }
   ],
   "collections": ["posts/posts.json"]

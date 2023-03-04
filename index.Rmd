@@ -1,9 +1,7 @@
 ---
 title: "Erin Franke"
 description: |
-  Hi, I'm Erin Franke. I currently attend Macalester College and am majoring in Statistics with Economics and Computer Science minors. I will be graduating in May 2023 and am interested in pursuing a career as a data scientist. This summer (2022) I joined the Minnesota Twins as a Baseball Research Fellow where I used R and SQL to apply statistical techinques in efforts to analyze players and baseball strategy. 
-  
-  Currently I am working on an independent honors project related to the intersection of gentrification and crime [(github here)](https://github.com/efranke22/honorsGentrification). Another recent project I have worked on is a spatial analysis of [blood lead levels](https://github.com/efranke22/nick-erin-capstone) of children in the Twin Cities.
+  Hi, I'm Erin Franke. I currently attend Macalester College and am majoring in Statistics with Computer Science and Economics minors. Currently I am working on an independent honors project related to the intersection of gentrification and crime [(github here)](https://github.com/efranke22/honorsGentrification). I will be graduating in May 2023 and am very excited to be joining Mayo Clinic as a Statistical Programmer. 
   
 site: distill::distill_website
 ---
@@ -30,7 +28,7 @@ In addition to my academics, I also enjoy running distance for Macalester Track 
 ![](images/hikingpic3.JPG){width=40%} ![](images/wrigley.JPG){width=40%}
 
 ## Contact 
-It is easiest to contact me by email at efranke@macalester.edu!
+Please reach out to me by email at erinfranke23@gmail.com!
 
 
 
